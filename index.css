@@ -14,6 +14,11 @@ button:hover {
   cursor: pointer;
 }
 
+#js-form {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .container {
   max-width: 600px;
   margin: 0 auto;
